@@ -1,0 +1,13 @@
+{
+    "name": "sadovnikov/fotosklad-test",
+    "authors": [
+        {
+            "name": "Kirill Sadovnikov",
+            "email": "d4rkm3z@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "": "./" }
+    }
+}
